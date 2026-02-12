@@ -1,8 +1,10 @@
 <div align="center">
 
   # 🐈‍⬛ VantaCat Protocol 🐈‍⬛
+  <img src="logo.png" width="200" alt="encrypted purrs, root access hisses">
 
 </div>
+
 
 ```text
 [LOG] ENTITY_ID: VantaCat
