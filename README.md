@@ -1,12 +1,6 @@
 <div align="center">
-
-# 🐈‍⬛ VantaCat Protocol
-
-<img src="logo.png" width="200" alt="VantaCat Logo">
-
+# 🐈‍⬛ VantaCat Protocol 🐈‍⬛
 </div>
-
-### 📂 System Diagnostics
 ```text
 [LOG] ENTITY_ID: VantaCat
 [LOG] STATUS: ACTIVE // ROOT_ACCESS_GRANTED
